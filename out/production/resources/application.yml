@@ -1,0 +1,6 @@
+jwt:
+  token:
+    access: jwtsecret
+    refresh: jwtrefresh
+  expire:
+    time: 36000000
